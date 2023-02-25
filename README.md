@@ -10,9 +10,9 @@ The simulation has been run using two algorithms:
 ### Variables and results
 After running the codes there are some clear results:
 1. Increase of the decoherence due to:
-* More spins in the chain
-* Longer distance interaction (which strength decay can be tuned)
-* Stronger spin-spin interaction
+  * More spins in the chain
+  * Longer distance interaction (which strength decay can be tuned)
+  * Stronger spin-spin interaction
 2. The implemented algorithm improves significantly the performance when the analytical solution begins to compile too slowly. Considering 2 excitations is usually enough to have almost no numerical error in the simulation, and compiles around 10 times faster.
 
 
