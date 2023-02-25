@@ -1,5 +1,5 @@
 ## Spin-spin decoherence
-This code simulates the dynamics of a closed spin chain using the Bethe ansatz for an XXX chain model. There is a figure of merit comparing the simulations for different implementations of the algorithms. The times are ordered like the legend of the figure `final_plot.png`
+This code simulates the dynamics of a closed spin chain using the Bethe ansatz for an XXX chain model. There is a figure of merit comparing the simulations for different implementations of the algorithms. The times are ordered like the legend of the figure `final_plot.png`. Two of the Python files are named as the algorithm they implement, and the `final_plot.py` one combines the implementation of both to obtain the figure of merit.
 ### Experiment
 The simulated experiment is the spin echo experiment. The observable is the $x$ component of the magnetization of the rotated spin.
 ### Algorithm
